@@ -1,3 +1,4 @@
+netlify.toml
 [[redirect]]
 from="/*"
 to = "/index.html"
